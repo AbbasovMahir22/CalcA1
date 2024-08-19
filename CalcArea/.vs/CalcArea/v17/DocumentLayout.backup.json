@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hp\\Desktop\\CalcArea(HW)\\CalcArea\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{08D433B9-9335-4294-AF05-908089521D58}|CalcArea\\CalcArea.csproj|c:\\users\\hp\\desktop\\calcarea(hw)\\calcarea\\calcarea\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08D433B9-9335-4294-AF05-908089521D58}|CalcArea\\CalcArea.csproj|solutionrelative:calcarea\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08D433B9-9335-4294-AF05-908089521D58}|CalcArea\\CalcArea.csproj|c:\\users\\hp\\desktop\\calcarea(hw)\\calcarea\\calcarea\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08D433B9-9335-4294-AF05-908089521D58}|CalcArea\\CalcArea.csproj|solutionrelative:calcarea\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08D433B9-9335-4294-AF05-908089521D58}|CalcArea\\CalcArea.csproj|c:\\users\\hp\\desktop\\calcarea(hw)\\calcarea\\calcarea\\rectangular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08D433B9-9335-4294-AF05-908089521D58}|CalcArea\\CalcArea.csproj|solutionrelative:calcarea\\rectangular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08D433B9-9335-4294-AF05-908089521D58}|CalcArea\\CalcArea.csproj|c:\\users\\hp\\desktop\\calcarea(hw)\\calcarea\\calcarea\\figure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08D433B9-9335-4294-AF05-908089521D58}|CalcArea\\CalcArea.csproj|solutionrelative:calcarea\\figure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Figure.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\CalcArea(HW)\\CalcArea\\CalcArea\\Figure.cs",
+              "RelativeDocumentMoniker": "CalcArea\\Figure.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\CalcArea(HW)\\CalcArea\\CalcArea\\Figure.cs",
+              "RelativeToolTip": "CalcArea\\Figure.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T20:44:45.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Rectangular.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\CalcArea(HW)\\CalcArea\\CalcArea\\Rectangular.cs",
+              "RelativeDocumentMoniker": "CalcArea\\Rectangular.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\CalcArea(HW)\\CalcArea\\CalcArea\\Rectangular.cs",
+              "RelativeToolTip": "CalcArea\\Rectangular.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAiwAgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T20:42:50.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Square.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\CalcArea(HW)\\CalcArea\\CalcArea\\Square.cs",
+              "RelativeDocumentMoniker": "CalcArea\\Square.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\CalcArea(HW)\\CalcArea\\CalcArea\\Square.cs",
+              "RelativeToolTip": "CalcArea\\Square.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T20:41:58.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\CalcArea(HW)\\CalcArea\\CalcArea\\Program.cs",
+              "RelativeDocumentMoniker": "CalcArea\\Program.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\CalcArea(HW)\\CalcArea\\CalcArea\\Program.cs",
+              "RelativeToolTip": "CalcArea\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T20:40:49.284Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

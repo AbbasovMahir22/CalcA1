@@ -1,0 +1,14 @@
+C:\Users\Hp\Desktop\CalcArea(HW)\CalcArea\CalcArea\obj\Debug\net8.0\CalcArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\CalcArea(HW)\CalcArea\CalcArea\obj\Debug\net8.0\CalcArea.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\CalcArea(HW)\CalcArea\CalcArea\obj\Debug\net8.0\CalcArea.AssemblyInfo.cs
+C:\Users\Hp\Desktop\CalcArea(HW)\CalcArea\CalcArea\obj\Debug\net8.0\CalcArea.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\CalcArea(HW)\CalcArea\CalcArea\bin\Debug\net8.0\CalcArea.exe
+C:\Users\Hp\Desktop\CalcArea(HW)\CalcArea\CalcArea\bin\Debug\net8.0\CalcArea.deps.json
+C:\Users\Hp\Desktop\CalcArea(HW)\CalcArea\CalcArea\bin\Debug\net8.0\CalcArea.runtimeconfig.json
+C:\Users\Hp\Desktop\CalcArea(HW)\CalcArea\CalcArea\bin\Debug\net8.0\CalcArea.dll
+C:\Users\Hp\Desktop\CalcArea(HW)\CalcArea\CalcArea\bin\Debug\net8.0\CalcArea.pdb
+C:\Users\Hp\Desktop\CalcArea(HW)\CalcArea\CalcArea\obj\Debug\net8.0\CalcArea.dll
+C:\Users\Hp\Desktop\CalcArea(HW)\CalcArea\CalcArea\obj\Debug\net8.0\refint\CalcArea.dll
+C:\Users\Hp\Desktop\CalcArea(HW)\CalcArea\CalcArea\obj\Debug\net8.0\CalcArea.pdb
+C:\Users\Hp\Desktop\CalcArea(HW)\CalcArea\CalcArea\obj\Debug\net8.0\CalcArea.genruntimeconfig.cache
+C:\Users\Hp\Desktop\CalcArea(HW)\CalcArea\CalcArea\obj\Debug\net8.0\ref\CalcArea.dll
